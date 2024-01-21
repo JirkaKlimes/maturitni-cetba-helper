@@ -1,4 +1,4 @@
-openai-functions==1.0.2
 duckduckgo_search==4.2
 rich==13.7.0
 beautifulsoup4==4.12.3
+toml==0.10.2
