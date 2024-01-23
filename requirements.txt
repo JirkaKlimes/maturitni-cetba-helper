@@ -1,4 +1,4 @@
 duckduckgo_search==4.2
 rich==13.7.0
 beautifulsoup4==4.12.3
-toml==0.10.2
+toml==0.10.2requests==2.31.0
